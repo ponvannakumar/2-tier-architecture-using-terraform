@@ -1,9 +1,6 @@
-# 🚀 Challenge 3 as part of #10WeeksofCloudOps - 2 tier Application using terraform 
+# 🚀  2 tier Application using terraform 
 
 ✨This repository is created to learn and deploy a 2-tier application on aws cloud through Terraform. 
-
-## If you are a visual learner, feel free to check out this video: 
-[![2-tier Architecture using terraform](https://img.youtube.com/vi/s8q5B6DLH7s/sddefault.jpg)](https://youtu.be/s8q5B6DLH7s)
 
 ## 🏠 Architecture
 
