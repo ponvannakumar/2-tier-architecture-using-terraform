@@ -6,7 +6,6 @@
 
 ![Architecture diagram](https://github.com/AnkitJodhani/3rdWeekofCloudOps/blob/main/architecture.gif)
 
-(https://github.com/AnkitJodhani/3rdWeekofCloudOps/blob/main/architecture.gif)
 
 ## 🖥️ Installation of Terraform
 
